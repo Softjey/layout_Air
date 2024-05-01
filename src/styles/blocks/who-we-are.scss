@@ -6,5 +6,5 @@
   gap: 24px;
   margin-inline: var(--page-padding);
   cursor: default;
-  @include hoverDelay(transform, scale(1.2));
+  @include hoverDelay(transform, scale(1.15));
 }
