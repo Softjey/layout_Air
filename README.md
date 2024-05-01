@@ -14,9 +14,9 @@ Technologies Used
 Project Resources
 -----------------
 
-**Live Preview:** [View the landing page](https://your-live-preview-link.com)
+**Live Preview:** [View the landing page](https://softjey.github.io/layout_dia/)
 
-**Mockup Link:** [View the design mockup](https://your-mockup-link.com)
+**Mockup Link:** [View the design mockup](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)))
 
 Launch Instructions
 -------------------
