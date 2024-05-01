@@ -16,7 +16,7 @@ Project Resources
 
 **Live Preview:** [View the landing page](https://softjey.github.io/layout_dia/)
 
-**Mockup Link:** [View the design mockup](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)))
+**Mockup Link:** [View the design mockup](https://shorturl.at/bBLU1)
 
 Launch Instructions
 -------------------
