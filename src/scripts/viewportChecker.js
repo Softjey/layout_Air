@@ -1,5 +1,5 @@
-export function isElementInViewport(el) {
-  const rect = el.getBoundingClientRect();
+export function isElementInViewport(element) {
+  const rect = element.getBoundingClientRect();
   const tolerance = 5;
 
   return (
