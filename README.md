@@ -14,7 +14,7 @@ Technologies Used
 Project Resources
 -----------------
 
-**Live Preview:** [View the landing page](https://softjey.github.io/layout_dia/)
+**Live Preview:** [View the landing page](https://softjey.github.io/layout_Air/)
 
 **Mockup Link:** [View the design mockup](https://shorturl.at/bBLU1)
 
